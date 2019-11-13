@@ -18,3 +18,9 @@ Four discrete actions are available, corresponding to:
        2 - turn left.
        3 - turn right.
 ```
+#### Rewards
+A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.
+
+### Completion Criteria
+Based on the instructions provided in the study material, in order to consider the environment solved, the agent must get an average score of +13 over 100 consecutive episodes.
+
