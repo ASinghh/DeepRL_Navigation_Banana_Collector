@@ -5,5 +5,5 @@ The project is the first one of the three projects required for graduating [Udac
 
 ## Project details
 ### Environment 
-The environment under consideration is on of the many [Unity ML-Agents Toolkit's](https://github.com/Unity-Technologies/ml-agents) game environments. These environments enable games and simulations to serve as environments for training intelligent agents. The environment is called the Banana Collector. It is game where a player is supposed to navigate in order to collect yellow bananas and skip blue bananas. A graphic rendering of the environment looks like the following GIF. \n ![banana collector](Images_GIFs/banana_collector.gif)
+The environment under consideration is on of the many [Unity ML-Agents Toolkit's](https://github.com/Unity-Technologies/ml-agents) game environments. These environments enable games and simulations to serve as environments for training intelligent agents. The environment is called the Banana Collector. It is game where a player is supposed to navigate in order to collect yellow bananas and skip blue bananas. A graphic rendering of the environment looks like the following GIF. <br/> ![banana collector](Images_GIFs/banana_collector.gif)
 
