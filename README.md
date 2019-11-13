@@ -7,3 +7,13 @@ The project is the first one of the three projects required for graduating [Udac
 ### Environment 
 The environment under consideration is on of the many [Unity ML-Agents Toolkit's](https://github.com/Unity-Technologies/ml-agents) game environments. These environments enable games and simulations to serve as environments for training intelligent agents. The environment is called the Banana Collector. It is game where a player is supposed to navigate in order to collect yellow bananas and skip blue bananas. A graphic rendering of the environment looks like the following GIF. <br/> <br/> <br/> ![banana collector](Images_GIFs/banana_collector.gif)
 
+#### State Space
+The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Given this information, the agent has to learn how to best select actions.
+
+#### Action Space
+Four discrete actions are available, corresponding to:
+```    0 - move forward.
+       1 - move backward.
+       2 - turn left.
+       3 - turn right.
+```
