@@ -38,7 +38,10 @@ Based on the instructions provided in the study material, in order to consider t
 2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file.
 
 ### Instructions
-The file 'dqn_agent.py' contains classes for creating DQN agents, Double DQN agents, Dueling DQN agents and Dueling Double DQN agents. It also contains a calss for creating Replay Buffers. The file 'model.py' contains the Neural Network classes for creating Q Networks and Dueling Q Networks. These Network classes are used to define the four Agent classes in the file 'dqn_agent.py'. To understand the implementation of training iterations, read through the Navigation.ipynb notebook.
+The file `dqn_agent.py` contains classes for creating DQN agents, Double DQN agents, Dueling DQN agents and Dueling Double DQN agents. It also contains a calss for creating Replay Buffers. The file `model.py` contains the Neural Network classes for creating Q Networks and Dueling Q Networks. These Network classes are used to define the four Agent classes in the file `dqn_agent.py`. To understand the implementation of training iterations, read through the `Navigation.ipynb` notebook.
+
+### Report
+The file `Report.pdf` contains information regarding the Learning Algorithms used for defining the agents, Plot of Rewards and Ideas for Future Work.
 ### Algorithm 
 The project includes implementation of Q-Learning and Double Q-Learning with Vanilla and Dueling network architectures.
 
