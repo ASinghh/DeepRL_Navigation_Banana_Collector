@@ -42,9 +42,4 @@ The file `dqn_agent.py` contains classes for creating DQN agents, Double DQN age
 
 ### Report
 The file `Report.pdf` contains information regarding the Learning Algorithms used for defining the agents, Plot of Rewards and Ideas for Future Work.
-### Algorithm 
-The project includes implementation of Q-Learning and Double Q-Learning with Vanilla and Dueling network architectures.
-
-#### Q-Learning
-Q-learning is a model-free reinforcement learning algorithm. The goal of Q-learning is to learn a policy, which tells an agent what action to take under what circumstances. It does not require a model (hence the connotation "model-free") of the environment, and it can handle problems with stochastic transitions and rewards, without requiring adaptations. 
 
